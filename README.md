@@ -8,4 +8,4 @@ Based on [everdrone/react-native-super-ellipse-mask](https://github.com/everdron
 
 ## Example
 
-![Example][example.png]
+![Example](example.png)
